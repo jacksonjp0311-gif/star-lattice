@@ -1,15 +1,15 @@
 # Star Lattice
 
 <p align="center">
-  <a href="https://OWNER.github.io/STAR-LATTICE-REPO/">
+  <a href="https://jacksonjp0311-gif.github.io/star-lattice/">
     <img src="site/star-lattice.svg" alt="Star Lattice preview" width="980" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://OWNER.github.io/STAR-LATTICE-REPO/">Open the live Star Lattice</a>
+  <a href="https://jacksonjp0311-gif.github.io/star-lattice/">Open the live Star Lattice</a>
   ·
-  <a href="https://github.com/OWNER/STAR-LATTICE-REPO/actions">View workflows</a>
+  <a href="https://github.com/jacksonjp0311-gif/star-lattice/actions">View workflows</a>
 </p>
 
 First-party, token-free GitHub star history for any public repository. The
