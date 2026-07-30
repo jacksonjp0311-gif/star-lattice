@@ -1,0 +1,5 @@
+{
+  "repository": "owner/project",
+  "display_name": "Project",
+  "default_branch": "main"
+}

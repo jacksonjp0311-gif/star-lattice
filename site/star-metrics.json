@@ -1,0 +1,9 @@
+{
+  "schema": "star_lattice.metrics.v1",
+  "repo": "owner/project",
+  "stars": 0,
+  "created_at": "2026-07-11T11:49:49+00:00",
+  "times": [],
+  "updated_at": "2026-07-30T02:42:54.037183+00:00",
+  "source": "gh api repos/.../stargazers Accept: application/vnd.github.star+json"
+}
