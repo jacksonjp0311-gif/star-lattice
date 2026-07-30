@@ -40,7 +40,3 @@ jobs:
             git commit -m "chore: refresh star lattice metrics"
             git push
           fi
-      - name: Deploy refreshed lattice
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh workflow run pages.yml --ref main
